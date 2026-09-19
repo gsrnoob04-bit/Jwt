@@ -12,7 +12,7 @@ from rich.text import Text
 from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn
 
 console = Console()
-API_URL = "https://jwt-liart-one.vercel.app/token?uid={}&password={}"
+API_URL = "https://star-jwt-api1.lovable.app/api/public/token?uid={}&password={}"
 
 def generate_random_filename(path):
     random_name = ''.join(random.choices(string.ascii_lowercase + string.digits, k=8))

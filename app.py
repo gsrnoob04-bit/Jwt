@@ -276,7 +276,7 @@ def build_game_data(open_id, access_token, uid, platform_type):
     g.timestamp = "2025-05-29 13:11:47"
     g.game_name = "free fire"
     g.game_version = 1
-    g.version_code = "1.132.2"
+    g.version_code = "1.132.8"
     g.os_info = "Android OS 11 / API-30 (RKQ1.201112.002/eng.realme.20221110.193122)"
     g.device_type = "Handheld"
     g.network_provider = "JIO"
